@@ -35,6 +35,10 @@
   <PropertyGroup>
     <ApplicationIcon>iconfinder_calculator-math-tool-school_2824440.ico</ApplicationIcon>
   </PropertyGroup>
+  <PropertyGroup>
+    <Win32Resource>
+    </Win32Resource>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
