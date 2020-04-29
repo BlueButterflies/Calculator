@@ -791,7 +791,7 @@
             this.txtResult.Name = "txtResult";
             this.txtResult.Size = new System.Drawing.Size(121, 19);
             this.txtResult.TabIndex = 9;
-            this.txtResult.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.txtResult.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // txtEnter
             // 
@@ -802,7 +802,7 @@
             this.txtEnter.Name = "txtEnter";
             this.txtEnter.Size = new System.Drawing.Size(121, 19);
             this.txtEnter.TabIndex = 8;
-            this.txtEnter.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.txtEnter.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // btnReset
             // 
@@ -891,7 +891,7 @@
             this.txtMultiply.Name = "txtMultiply";
             this.txtMultiply.Size = new System.Drawing.Size(119, 19);
             this.txtMultiply.TabIndex = 1;
-            this.txtMultiply.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.txtMultiply.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // listForMultiplication
             // 
