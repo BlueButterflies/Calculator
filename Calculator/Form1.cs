@@ -518,5 +518,12 @@ namespace Calculator
             this.Close();
         }
         #endregion
+
+        private void Form1_HelpButtonClicked(object sender, CancelEventArgs e)
+        {
+            Info info = new Info();
+            info.ShowDialog();
+        }
+
     }
 }
