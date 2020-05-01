@@ -135,6 +135,7 @@
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Info";
+            this.Load += new System.EventHandler(this.Info_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pctIcon)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();

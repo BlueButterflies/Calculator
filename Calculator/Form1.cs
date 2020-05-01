@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -281,7 +282,7 @@ namespace Calculator
                     txtBox.Text = Math.Exp(i * Math.Log(q * 4)).ToString();
                     break;
             }
-        } 
+        }
 
         private void btnPlusMinus_Click(object sender, EventArgs e)
         {
@@ -292,7 +293,7 @@ namespace Calculator
                 txtBox.Text = Convert.ToString("-" + num);
             }
 
-            if(num < 0)
+            if (num < 0)
             {
                 txtBox.Text = Convert.ToString(Math.Abs(num));
             }
@@ -464,20 +465,23 @@ namespace Calculator
 
         private void btnCovert_Click(object sender, EventArgs e)
         {
-            switch (symbols)
+            if (txtBox.Text.Length > 0)
             {
-                case 'C':
-                    iCelsius = float.Parse(txtEnter.Text);
-                    txtResult.Text = (((9 * iCelsius) / 5) + 32).ToString();
-                    break;
-                case 'F':
-                    iFahrenheit = float.Parse(txtEnter.Text);
-                    txtResult.Text = (((iFahrenheit - 32) * 5) / 9).ToString();
-                    break;
-                case 'K':
-                    iKevin = float.Parse(txtEnter.Text);
-                    txtResult.Text = ((((9 * iKevin) / 5) + 32) + 273.15).ToString();
-                    break;
+                switch (symbols)
+                {
+                    case 'C':
+                        iCelsius = float.Parse(txtEnter.Text);
+                        txtResult.Text = (((9 * iCelsius) / 5) + 32).ToString();
+                        break;
+                    case 'F':
+                        iFahrenheit = float.Parse(txtEnter.Text);
+                        txtResult.Text = (((iFahrenheit - 32) * 5) / 9).ToString();
+                        break;
+                    case 'K':
+                        iKevin = float.Parse(txtEnter.Text);
+                        txtResult.Text = ((((9 * iKevin) / 5) + 32) + 273.15).ToString();
+                        break;
+                }
             }
         }
 
@@ -527,3 +531,4 @@ namespace Calculator
 
     }
 }
+

@@ -16,5 +16,10 @@ namespace Calculator
         {
             InitializeComponent();
         }
+
+        private void Info_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

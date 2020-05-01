@@ -185,6 +185,11 @@
             // btnRemove
             // 
             this.btnRemove.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnRemove.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnRemove.FlatAppearance.CheckedBackColor = System.Drawing.Color.Olive;
+            this.btnRemove.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.btnRemove.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnRemove.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnRemove.Font = new System.Drawing.Font("Franklin Gothic Medium", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnRemove.ForeColor = System.Drawing.Color.Navy;
             this.btnRemove.Location = new System.Drawing.Point(12, 103);
@@ -198,6 +203,11 @@
             // btnClear
             // 
             this.btnClear.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnClear.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnClear.FlatAppearance.CheckedBackColor = System.Drawing.Color.Olive;
+            this.btnClear.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.btnClear.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnClear.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnClear.Font = new System.Drawing.Font("Franklin Gothic Medium", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnClear.ForeColor = System.Drawing.Color.Navy;
             this.btnClear.Location = new System.Drawing.Point(71, 102);
@@ -211,6 +221,11 @@
             // btnReturn0
             // 
             this.btnReturn0.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnReturn0.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnReturn0.FlatAppearance.CheckedBackColor = System.Drawing.Color.Olive;
+            this.btnReturn0.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.btnReturn0.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnReturn0.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnReturn0.Font = new System.Drawing.Font("Franklin Gothic Medium", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnReturn0.ForeColor = System.Drawing.Color.Navy;
             this.btnReturn0.Location = new System.Drawing.Point(130, 102);
@@ -224,6 +239,11 @@
             // btnPlusMinus
             // 
             this.btnPlusMinus.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnPlusMinus.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnPlusMinus.FlatAppearance.CheckedBackColor = System.Drawing.Color.Olive;
+            this.btnPlusMinus.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.btnPlusMinus.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnPlusMinus.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnPlusMinus.Font = new System.Drawing.Font("Franklin Gothic Medium", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPlusMinus.ForeColor = System.Drawing.Color.Navy;
             this.btnPlusMinus.Location = new System.Drawing.Point(189, 102);
@@ -237,6 +257,11 @@
             // btn7
             // 
             this.btn7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btn7.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btn7.FlatAppearance.CheckedBackColor = System.Drawing.Color.Olive;
+            this.btn7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.btn7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btn7.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btn7.Font = new System.Drawing.Font("Franklin Gothic Medium", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn7.ForeColor = System.Drawing.Color.Navy;
             this.btn7.Location = new System.Drawing.Point(12, 154);
@@ -250,6 +275,11 @@
             // btn8
             // 
             this.btn8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btn8.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btn8.FlatAppearance.CheckedBackColor = System.Drawing.Color.Olive;
+            this.btn8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.btn8.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btn8.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btn8.Font = new System.Drawing.Font("Franklin Gothic Medium", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn8.ForeColor = System.Drawing.Color.Navy;
             this.btn8.Location = new System.Drawing.Point(71, 154);
@@ -263,6 +293,11 @@
             // btn9
             // 
             this.btn9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btn9.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btn9.FlatAppearance.CheckedBackColor = System.Drawing.Color.Olive;
+            this.btn9.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.btn9.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btn9.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btn9.Font = new System.Drawing.Font("Franklin Gothic Medium", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn9.ForeColor = System.Drawing.Color.Navy;
             this.btn9.Location = new System.Drawing.Point(130, 154);
@@ -276,6 +311,11 @@
             // btnPlus
             // 
             this.btnPlus.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnPlus.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnPlus.FlatAppearance.CheckedBackColor = System.Drawing.Color.Olive;
+            this.btnPlus.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.btnPlus.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnPlus.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnPlus.Font = new System.Drawing.Font("Franklin Gothic Medium", 18F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPlus.ForeColor = System.Drawing.Color.Navy;
             this.btnPlus.Location = new System.Drawing.Point(189, 154);
@@ -289,6 +329,11 @@
             // btnMultiplication
             // 
             this.btnMultiplication.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnMultiplication.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnMultiplication.FlatAppearance.CheckedBackColor = System.Drawing.Color.Olive;
+            this.btnMultiplication.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.btnMultiplication.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnMultiplication.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnMultiplication.Font = new System.Drawing.Font("Franklin Gothic Medium", 18F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMultiplication.ForeColor = System.Drawing.Color.Navy;
             this.btnMultiplication.Location = new System.Drawing.Point(189, 258);
@@ -302,6 +347,11 @@
             // btn3
             // 
             this.btn3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btn3.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btn3.FlatAppearance.CheckedBackColor = System.Drawing.Color.Olive;
+            this.btn3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.btn3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btn3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btn3.Font = new System.Drawing.Font("Franklin Gothic Medium", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn3.ForeColor = System.Drawing.Color.Navy;
             this.btn3.Location = new System.Drawing.Point(130, 258);
@@ -315,6 +365,11 @@
             // btn2
             // 
             this.btn2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btn2.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btn2.FlatAppearance.CheckedBackColor = System.Drawing.Color.Olive;
+            this.btn2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.btn2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btn2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btn2.Font = new System.Drawing.Font("Franklin Gothic Medium", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn2.ForeColor = System.Drawing.Color.Navy;
             this.btn2.Location = new System.Drawing.Point(71, 258);
@@ -328,6 +383,11 @@
             // btn1
             // 
             this.btn1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btn1.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btn1.FlatAppearance.CheckedBackColor = System.Drawing.Color.Olive;
+            this.btn1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.btn1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btn1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btn1.Font = new System.Drawing.Font("Franklin Gothic Medium", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn1.ForeColor = System.Drawing.Color.Navy;
             this.btn1.Location = new System.Drawing.Point(12, 258);
@@ -341,6 +401,11 @@
             // btnMinus
             // 
             this.btnMinus.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnMinus.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnMinus.FlatAppearance.CheckedBackColor = System.Drawing.Color.Olive;
+            this.btnMinus.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.btnMinus.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnMinus.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnMinus.Font = new System.Drawing.Font("Franklin Gothic Medium", 18F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMinus.ForeColor = System.Drawing.Color.Navy;
             this.btnMinus.Location = new System.Drawing.Point(189, 206);
@@ -354,6 +419,11 @@
             // btn6
             // 
             this.btn6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btn6.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btn6.FlatAppearance.CheckedBackColor = System.Drawing.Color.Olive;
+            this.btn6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.btn6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btn6.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btn6.Font = new System.Drawing.Font("Franklin Gothic Medium", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn6.ForeColor = System.Drawing.Color.Navy;
             this.btn6.Location = new System.Drawing.Point(130, 206);
@@ -367,6 +437,11 @@
             // btn5
             // 
             this.btn5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btn5.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btn5.FlatAppearance.CheckedBackColor = System.Drawing.Color.Olive;
+            this.btn5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.btn5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btn5.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btn5.Font = new System.Drawing.Font("Franklin Gothic Medium", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn5.ForeColor = System.Drawing.Color.Navy;
             this.btn5.Location = new System.Drawing.Point(71, 206);
@@ -380,6 +455,11 @@
             // btn4
             // 
             this.btn4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btn4.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btn4.FlatAppearance.CheckedBackColor = System.Drawing.Color.Olive;
+            this.btn4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.btn4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btn4.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btn4.Font = new System.Drawing.Font("Franklin Gothic Medium", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn4.ForeColor = System.Drawing.Color.Navy;
             this.btn4.Location = new System.Drawing.Point(12, 206);
@@ -393,6 +473,7 @@
             // btnInX
             // 
             this.btnInX.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnInX.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnInX.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnInX.ForeColor = System.Drawing.Color.Navy;
             this.btnInX.Location = new System.Drawing.Point(441, 258);
@@ -406,6 +487,7 @@
             // btnHex
             // 
             this.btnHex.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnHex.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnHex.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnHex.ForeColor = System.Drawing.Color.Navy;
             this.btnHex.Location = new System.Drawing.Point(382, 258);
@@ -419,6 +501,7 @@
             // btnTan
             // 
             this.btnTan.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnTan.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnTan.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTan.ForeColor = System.Drawing.Color.Navy;
             this.btnTan.Location = new System.Drawing.Point(323, 258);
@@ -432,6 +515,7 @@
             // btnTanh
             // 
             this.btnTanh.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnTanh.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnTanh.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTanh.ForeColor = System.Drawing.Color.Navy;
             this.btnTanh.Location = new System.Drawing.Point(264, 258);
@@ -445,6 +529,7 @@
             // btn1X
             // 
             this.btn1X.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btn1X.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btn1X.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn1X.ForeColor = System.Drawing.Color.Navy;
             this.btn1X.Location = new System.Drawing.Point(441, 206);
@@ -458,6 +543,7 @@
             // btnBin
             // 
             this.btnBin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnBin.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnBin.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnBin.ForeColor = System.Drawing.Color.Navy;
             this.btnBin.Location = new System.Drawing.Point(382, 206);
@@ -471,6 +557,7 @@
             // btnCos
             // 
             this.btnCos.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnCos.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnCos.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCos.ForeColor = System.Drawing.Color.Navy;
             this.btnCos.Location = new System.Drawing.Point(323, 206);
@@ -484,6 +571,7 @@
             // btnCosh
             // 
             this.btnCosh.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnCosh.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnCosh.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCosh.ForeColor = System.Drawing.Color.Navy;
             this.btnCosh.Location = new System.Drawing.Point(264, 206);
@@ -497,6 +585,7 @@
             // btnX3
             // 
             this.btnX3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnX3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnX3.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnX3.ForeColor = System.Drawing.Color.Navy;
             this.btnX3.Location = new System.Drawing.Point(441, 154);
@@ -510,6 +599,7 @@
             // btnDec
             // 
             this.btnDec.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnDec.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnDec.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDec.ForeColor = System.Drawing.Color.Navy;
             this.btnDec.Location = new System.Drawing.Point(382, 154);
@@ -523,6 +613,7 @@
             // btnSin
             // 
             this.btnSin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnSin.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnSin.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSin.ForeColor = System.Drawing.Color.Navy;
             this.btnSin.Location = new System.Drawing.Point(323, 154);
@@ -536,6 +627,7 @@
             // btnSinh
             // 
             this.btnSinh.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnSinh.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnSinh.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSinh.ForeColor = System.Drawing.Color.Navy;
             this.btnSinh.Location = new System.Drawing.Point(264, 154);
@@ -549,6 +641,7 @@
             // btnX2
             // 
             this.btnX2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnX2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnX2.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnX2.ForeColor = System.Drawing.Color.Navy;
             this.btnX2.Location = new System.Drawing.Point(441, 102);
@@ -562,6 +655,7 @@
             // btnSqrt
             // 
             this.btnSqrt.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnSqrt.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnSqrt.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSqrt.ForeColor = System.Drawing.Color.Navy;
             this.btnSqrt.Location = new System.Drawing.Point(382, 102);
@@ -575,6 +669,7 @@
             // btnLog
             // 
             this.btnLog.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnLog.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnLog.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLog.ForeColor = System.Drawing.Color.Navy;
             this.btnLog.Location = new System.Drawing.Point(323, 102);
@@ -588,6 +683,7 @@
             // btnPi
             // 
             this.btnPi.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnPi.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnPi.Font = new System.Drawing.Font("Franklin Gothic Medium", 16F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPi.ForeColor = System.Drawing.Color.Navy;
             this.btnPi.Location = new System.Drawing.Point(264, 102);
@@ -601,6 +697,7 @@
             // btnPrecent
             // 
             this.btnPrecent.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnPrecent.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnPrecent.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPrecent.ForeColor = System.Drawing.Color.Navy;
             this.btnPrecent.Location = new System.Drawing.Point(441, 310);
@@ -614,6 +711,7 @@
             // btnOct
             // 
             this.btnOct.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnOct.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnOct.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnOct.ForeColor = System.Drawing.Color.Navy;
             this.btnOct.Location = new System.Drawing.Point(382, 310);
@@ -627,6 +725,7 @@
             // btnMod
             // 
             this.btnMod.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnMod.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnMod.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMod.ForeColor = System.Drawing.Color.Navy;
             this.btnMod.Location = new System.Drawing.Point(323, 310);
@@ -640,6 +739,7 @@
             // btnExp
             // 
             this.btnExp.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnExp.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnExp.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnExp.ForeColor = System.Drawing.Color.Navy;
             this.btnExp.Location = new System.Drawing.Point(264, 310);
@@ -653,6 +753,11 @@
             // btnDivision
             // 
             this.btnDivision.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnDivision.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnDivision.FlatAppearance.CheckedBackColor = System.Drawing.Color.Olive;
+            this.btnDivision.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.btnDivision.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnDivision.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnDivision.Font = new System.Drawing.Font("Franklin Gothic Medium", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDivision.ForeColor = System.Drawing.Color.Navy;
             this.btnDivision.Location = new System.Drawing.Point(189, 310);
@@ -666,6 +771,11 @@
             // btnEquals
             // 
             this.btnEquals.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnEquals.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnEquals.FlatAppearance.CheckedBackColor = System.Drawing.Color.Olive;
+            this.btnEquals.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.btnEquals.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnEquals.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnEquals.Font = new System.Drawing.Font("Franklin Gothic Medium", 18F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnEquals.ForeColor = System.Drawing.Color.Navy;
             this.btnEquals.Location = new System.Drawing.Point(130, 310);
@@ -679,6 +789,11 @@
             // btnPoint
             // 
             this.btnPoint.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnPoint.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnPoint.FlatAppearance.CheckedBackColor = System.Drawing.Color.Olive;
+            this.btnPoint.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.btnPoint.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnPoint.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnPoint.Font = new System.Drawing.Font("Franklin Gothic Medium", 20F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPoint.ForeColor = System.Drawing.Color.Navy;
             this.btnPoint.Location = new System.Drawing.Point(71, 310);
@@ -692,6 +807,11 @@
             // btn0
             // 
             this.btn0.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btn0.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btn0.FlatAppearance.CheckedBackColor = System.Drawing.Color.Olive;
+            this.btn0.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.btn0.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btn0.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btn0.Font = new System.Drawing.Font("Franklin Gothic Medium", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn0.ForeColor = System.Drawing.Color.Navy;
             this.btn0.Location = new System.Drawing.Point(12, 310);
@@ -807,6 +927,7 @@
             // btnReset
             // 
             this.btnReset.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnReset.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnReset.Location = new System.Drawing.Point(247, 265);
             this.btnReset.Name = "btnReset";
             this.btnReset.Size = new System.Drawing.Size(102, 40);
@@ -818,6 +939,7 @@
             // btnCovert
             // 
             this.btnCovert.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnCovert.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnCovert.Location = new System.Drawing.Point(6, 265);
             this.btnCovert.Name = "btnCovert";
             this.btnCovert.Size = new System.Drawing.Size(102, 40);
@@ -863,6 +985,7 @@
             // btnResetMultiply
             // 
             this.btnResetMultiply.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnResetMultiply.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnResetMultiply.Location = new System.Drawing.Point(147, 67);
             this.btnResetMultiply.Name = "btnResetMultiply";
             this.btnResetMultiply.Size = new System.Drawing.Size(89, 31);
@@ -874,6 +997,7 @@
             // btnMultiply
             // 
             this.btnMultiply.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnMultiply.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnMultiply.Location = new System.Drawing.Point(6, 67);
             this.btnMultiply.Name = "btnMultiply";
             this.btnMultiply.Size = new System.Drawing.Size(89, 31);
