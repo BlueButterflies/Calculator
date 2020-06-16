@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/52591976/80618940-519eeb00-8a44-11ea-981c-cadf48962da2.png"width =200/>
 </p>
 <p>
-  <a href="https://github.com/BlueButterflies/Calculator/files/4786499/noteSetup.zip" download>
+  <a href="https://github.com/BlueButterflies/Note/files/4786535/calculatorSetup.zip" download>
     <h2 align="center">
       Click to download Calculator to try it!
     </h2>
