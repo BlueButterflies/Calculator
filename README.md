@@ -3,6 +3,7 @@
 </h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/52591976/80618940-519eeb00-8a44-11ea-981c-cadf48962da2.png"width =200/>
+  <h2 align="center"><a href="https://github.com/BlueButterflies/Calculator/files/8539445/calculator-setup.zip"> Download </a></h2>
 </p>
 
   <table>
